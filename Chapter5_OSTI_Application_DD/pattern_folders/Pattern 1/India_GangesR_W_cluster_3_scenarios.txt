@@ -1,0 +1,10 @@
+File: India_GangesR_W_cluster_3.csv
+Number of rows: 60
+Unique values for specified columns:
+  gw: 3, 1, 2
+  res: 2, 1
+  esm: 1, 2, 3, 4, 5
+  tax: 2
+  ssp: 1
+  ag: 1, 5
+  soc: 3

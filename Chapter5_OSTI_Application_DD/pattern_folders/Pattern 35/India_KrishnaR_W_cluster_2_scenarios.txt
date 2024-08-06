@@ -1,0 +1,10 @@
+File: India_KrishnaR_W_cluster_2.csv
+Number of rows: 136
+Unique values for specified columns:
+  gw: 3, 1, 2
+  res: 2, 1
+  esm: 1, 2, 3, 4, 5
+  tax: 2, 1
+  ssp: 2, 1
+  ag: 3, 1, 2, 5
+  soc: 5, 3, 4

@@ -1,0 +1,93 @@
+FileName,NumScenarios,gw,res,esm,tax,ssp,ag,soc
+AfricaNorthern_NileR_W_cluster_5_scenarios,63,"1, 3, 2","1, 2","1, 4, 2, 3, 5",2,1,"1, 5","3, 2"
+AfricaNorthern_NileR_W_cluster_7_scenarios,60,"1, 3, 2","1, 2","1, 4, 2, 3, 5",2,1,"1, 5",3
+AfricaSouthern_ZambeziR_W_cluster_0_scenarios,60,"1, 3, 2","1, 2","1, 4, 2, 3, 5",1,1,"1, 5",3
+AfricaSouthern_ZambeziR_W_cluster_2_scenarios,172,"1, 3, 2","1, 2","1, 4, 2, 3, 5","1, 2","1, 2","3, 4","3, 4"
+AfricaSouthern_ZambeziR_W_cluster_3_scenarios,178,"1, 3, 2","1, 2","1, 4, 2, 3, 5","1, 2","1, 2","3, 4","3, 4"
+AfricaSouthern_ZambeziR_W_cluster_4_scenarios,172,"1, 3, 2","1, 2","1, 4, 2, 3, 5","1, 2","1, 2","3, 4","3, 4"
+AfricaSouthern_ZambeziR_W_cluster_5_scenarios,120,"1, 3, 2","1, 2","1, 4, 2, 3, 5",1,"1, 2","1, 5",3
+AfricaSouthern_ZambeziR_W_cluster_6_scenarios,120,"1, 3, 2","1, 2","1, 4, 2, 3, 5",1,"1, 2","5, 1, 2",3
+AfricaWestern_SenegalR_W_cluster_0_scenarios,237,"1, 3, 2","1, 2","1, 4, 2, 3, 5","1, 2","1, 2","3, 4","3, 4"
+AfricaWestern_SenegalR_W_cluster_1_scenarios,150,"1, 3, 2","1, 2","1, 4, 2, 3, 5",1,"1, 2","5, 1, 2",3
+AfricaWestern_SenegalR_W_cluster_2_scenarios,119,"1, 3, 2","1, 2","1, 4, 2, 3, 5","1, 2",1,"1, 5",4
+AfricaWestern_SenegalR_W_cluster_3_scenarios,238,"1, 3, 2","1, 2","1, 4, 2, 3, 5","1, 2","1, 2","3, 4","3, 4"
+AfricaWestern_SenegalR_W_cluster_5_scenarios,90,"1, 3, 2","1, 2","1, 4, 2, 3, 5",1,"1, 2","3, 4","3, 4"
+AfricaWestern_SenegalR_W_cluster_6_scenarios,59,"1, 3, 2","1, 2","1, 4, 2, 3, 5",1,1,"1, 5",4
+Australia_MurrayDrlg_W_cluster_1_scenarios,150,"1, 3, 2","1, 2","1, 4, 2, 3, 5","1, 2","1, 2","3, 4",3
+Australia_MurrayDrlg_W_cluster_2_scenarios,60,"1, 3, 2","1, 2","1, 4, 2, 3, 5","1, 2",1,4,3
+Australia_MurrayDrlg_W_cluster_3_scenarios,120,"1, 3, 2","1, 2","1, 4, 2, 3, 5","1, 2","1, 2",3,3
+Australia_MurrayDrlg_W_cluster_4_scenarios,120,"1, 3, 2","1, 2","1, 4, 2, 3, 5","1, 2",1,4,"5, 2"
+Australia_MurrayDrlg_W_cluster_5_scenarios,60,"1, 3, 2","1, 2","1, 4, 2, 3, 5","1, 2",1,4,3
+Australia_MurrayDrlg_W_cluster_6_scenarios,96,"1, 3, 2","1, 2","1, 4, 2, 3, 5",1,"1, 2",3,"1, 3, 2"
+Australia_MurrayDrlg_W_cluster_7_scenarios,120,"1, 3, 2","1, 2","1, 4, 2, 3, 5","1, 2","1, 2",3,3
+CA_AmuDaryaR_W_cluster_2_scenarios,36,"3, 2","1, 2","1, 4, 2, 3, 5",2,1,"1, 5",3
+CA_AmuDaryaR_W_cluster_3_scenarios,81,"1, 3, 2","1, 2","1, 4, 2, 3, 5","1, 2",2,"3, 4",5
+CA_AmuDaryaR_W_cluster_4_scenarios,37,"1, 3, 2","1, 2","1, 4, 2, 3, 5","1, 2",2,4,5
+CA_AmuDaryaR_W_cluster_5_scenarios,40,"1, 3, 2","1, 2","1, 4, 2, 3, 5","1, 2",2,"3, 4",5
+CA_AmuDaryaR_W_cluster_6_scenarios,71,"1, 2","1, 2","1, 4, 2, 3, 5","1, 2","1, 2","1, 4, 2, 3, 5",3
+CA_AmuDaryaR_W_cluster_7_scenarios,54,"1, 3, 2","1, 2","1, 4, 2, 3, 5","1, 2",2,"3, 4",5
+CA_SyrDaryaR_W_cluster_2_scenarios,93,"1, 3, 2","1, 2","1, 4, 2, 3, 5","1, 2",2,"3, 4",5
+CA_SyrDaryaR_W_cluster_4_scenarios,117,"1, 3, 2","1, 2","1, 4, 2, 3, 5","1, 2","1, 2","5, 1, 4, 2",3
+CA_SyrDaryaR_W_cluster_5_scenarios,95,"1, 3, 2","1, 2","1, 4, 2, 3, 5","1, 2",2,"3, 4","5, 2"
+CA_SyrDaryaR_W_cluster_6_scenarios,236,"1, 3, 2","1, 2","1, 4, 2, 3, 5","1, 2","1, 2","5, 1, 4, 2",3
+CA_SyrDaryaR_W_cluster_7_scenarios,92,"1, 3, 2","1, 2","1, 4, 2, 3, 5","1, 2",2,"3, 4",5
+China_HuangHeR_W_cluster_4_scenarios,120,"1, 3, 2","1, 2","1, 4, 2, 3, 5","1, 2",2,"3, 4",5
+China_HuangHeR_W_cluster_6_scenarios,60,"1, 3, 2","1, 2","1, 4, 2, 3, 5","1, 2",2,4,5
+China_HuangHeR_W_cluster_7_scenarios,119,"1, 3, 2","1, 2","1, 4, 2, 3, 5","1, 2","1, 2",4,3
+China_Yangtze_W_cluster_4_scenarios,59,"1, 3, 2","1, 2","1, 4, 2, 3, 5","1, 2",2,4,5
+China_Yangtze_W_cluster_6_scenarios,60,"1, 3, 2","1, 2","1, 4, 2, 3, 5","1, 2",2,3,5
+China_Yangtze_W_cluster_7_scenarios,179,"1, 3, 2","1, 2","1, 4, 2, 3, 5","1, 2",2,4,"5, 1, 2"
+India_GangesR_W_cluster_0_scenarios,179,"1, 3, 2","1, 2","1, 4, 2, 3, 5","1, 2",1,"1, 5","3, 4"
+India_GangesR_W_cluster_3_scenarios,60,"1, 3, 2","1, 2","1, 4, 2, 3, 5",2,1,"1, 5",3
+India_GangesR_W_cluster_4_scenarios,75,"1, 3, 2","1, 2","1, 4, 2, 3, 5","1, 2",1,"1, 5",3
+India_GangesR_W_cluster_5_scenarios,60,"1, 3, 2","1, 2","1, 4, 2, 3, 5",2,1,"1, 5",3
+India_GangesR_W_cluster_6_scenarios,60,"1, 3, 2","1, 2","1, 4, 2, 3, 5",2,1,"1, 5",3
+India_GangesR_W_cluster_7_scenarios,180,"1, 3, 2","1, 2","1, 4, 2, 3, 5","1, 2",1,"5, 1, 2",3
+India_GodavariR_W_cluster_0_scenarios,77,"1, 3, 2","1, 2","1, 4, 2, 3, 5",2,1,"1, 5","3, 4"
+India_GodavariR_W_cluster_1_scenarios,60,"1, 3, 2","1, 2","1, 4, 2, 3, 5",2,1,"1, 5",3
+India_GodavariR_W_cluster_3_scenarios,81,"1, 3, 2","1, 2","1, 4, 2, 3, 5",2,"1, 2","5, 1, 3, 2","3, 5"
+India_GodavariR_W_cluster_5_scenarios,60,"1, 3, 2","1, 2","1, 4, 2, 3, 5",2,1,"1, 5",3
+India_GodavariR_W_cluster_6_scenarios,90,"1, 3, 2","1, 2","1, 4, 2, 3, 5",2,1,"5, 1, 2",3
+India_GodavariR_W_cluster_7_scenarios,72,"1, 3, 2","1, 2","1, 4, 2, 3, 5",2,1,"5, 1, 2",4
+India_KrishnaR_W_cluster_1_scenarios,125,"1, 3, 2","1, 2","1, 4, 2, 3, 5","1, 2",1,"5, 1, 2",3
+India_KrishnaR_W_cluster_2_scenarios,136,"1, 3, 2","1, 2","1, 4, 2, 3, 5","1, 2","1, 2","5, 1, 3, 2","3, 4, 5"
+India_KrishnaR_W_cluster_4_scenarios,60,"1, 3, 2","1, 2","1, 4, 2, 3, 5","1, 2",1,"1, 5",3
+India_KrishnaR_W_cluster_5_scenarios,60,"1, 3, 2","1, 2","1, 4, 2, 3, 5","1, 2",1,"1, 5",3
+India_KrishnaR_W_cluster_7_scenarios,50,"1, 3, 2","1, 2","5, 1, 3, 2",2,1,"1, 5","3, 4"
+Middle East_TigrEuphR_W_cluster_3_scenarios,54,"1, 3, 2","1, 2","1, 4, 2, 3, 5",2,1,"5, 1, 4, 2",3
+Middle East_TigrEuphR_W_cluster_4_scenarios,136,"1, 3, 2","1, 2","1, 4, 2, 3, 5","1, 2","1, 2","1, 4, 5",3
+Middle East_TigrEuphR_W_cluster_5_scenarios,88,"1, 3, 2","1, 2","1, 4, 2, 3, 5","1, 2","1, 2",3,3
+Middle East_TigrEuphR_W_cluster_7_scenarios,40,"1, 3, 2","1, 2","1, 4, 2, 3, 5",2,"1, 2","3, 2",3
+Pakistan_IndusR_W_cluster_2_scenarios,152,"1, 3, 2","1, 2","1, 4, 2, 3, 5","1, 2",1,"5, 1, 2","3, 4"
+Pakistan_IndusR_W_cluster_3_scenarios,60,"1, 3, 2","1, 2","1, 4, 2, 3, 5",2,1,"1, 5",3
+Pakistan_IndusR_W_cluster_4_scenarios,90,"1, 3, 2","1, 2","1, 4, 2, 3, 5","1, 2",1,"5, 1, 2",3
+Pakistan_IndusR_W_cluster_5_scenarios,30,"1, 3, 2","1, 2","1, 4, 2, 3, 5",1,2,4,5
+Pakistan_IndusR_W_cluster_7_scenarios,93,"1, 3, 2","1, 2","1, 4, 2, 3, 5","1, 2","1, 2",4,"5, 3, 4, 2"
+Russia_VolgaR_W_cluster_0_scenarios,90,"1, 3, 2","1, 2","1, 4, 2, 3, 5","1, 2","1, 2","3, 4",5
+Russia_VolgaR_W_cluster_1_scenarios,120,"1, 3, 2","1, 2","1, 4, 2, 3, 5","1, 2","1, 2",3,3
+Russia_VolgaR_W_cluster_2_scenarios,72,"1, 3, 2","1, 2","1, 4, 2, 3, 5","1, 2","1, 2","3, 4",5
+Russia_VolgaR_W_cluster_3_scenarios,90,"1, 3, 2","1, 2","1, 4, 2, 3, 5",2,"1, 2","4, 2",3
+Russia_VolgaR_W_cluster_4_scenarios,96,"1, 3, 2","1, 2","1, 4, 2, 3, 5","1, 2","1, 2","4, 2",3
+Russia_VolgaR_W_cluster_5_scenarios,30,"1, 3, 2","1, 2","1, 4, 2, 3, 5",1,2,4,5
+Russia_VolgaR_W_cluster_6_scenarios,60,"1, 3, 2","1, 2","1, 4, 2, 3, 5",1,"1, 2",3,3
+Russia_VolgaR_W_cluster_7_scenarios,60,"1, 3, 2","1, 2","1, 4, 2, 3, 5",1,"1, 2",3,3
+Southeast Asia_Mekong_W_cluster_2_scenarios,60,"1, 3, 2","1, 2","1, 4, 2, 3, 5","1, 2",2,4,5
+Southeast Asia_Mekong_W_cluster_3_scenarios,240,"1, 3, 2","1, 2","1, 4, 2, 3, 5","1, 2","1, 2","1, 5","3, 2, 4, 5"
+Southeast Asia_Mekong_W_cluster_4_scenarios,60,"1, 3, 2","1, 2","1, 4, 2, 3, 5","1, 2",2,3,5
+Southeast Asia_Mekong_W_cluster_5_scenarios,60,"1, 3, 2","1, 2","1, 4, 2, 3, 5","1, 2",2,4,5
+Southeast Asia_Mekong_W_cluster_6_scenarios,119,"1, 3, 2","1, 2","1, 4, 2, 3, 5",1,1,"1, 5","4, 2"
+Southeast Asia_Mekong_W_cluster_7_scenarios,60,"1, 3, 2","1, 2","1, 4, 2, 3, 5","1, 2",2,3,5
+USA_California_W_cluster_2_scenarios,196,"1, 3, 2","1, 2","1, 4, 2, 3, 5","1, 2","1, 2","3, 4, 2",3
+USA_California_W_cluster_3_scenarios,120,"1, 3, 2","1, 2","1, 4, 2, 3, 5","1, 2","1, 2",3,3
+USA_MissouriR_W_cluster_5_scenarios,60,"1, 3, 2","1, 2","1, 4, 2, 3, 5",2,"1, 2",3,3
+USA_MissouriR_W_cluster_6_scenarios,153,"1, 3, 2","1, 2","1, 4, 2, 3, 5","1, 2",1,"5, 1, 4, 2",3
+USA_MissouriR_W_cluster_7_scenarios,120,"1, 3, 2","1, 2","1, 4, 2, 3, 5","1, 2","1, 2",3,3
+USA_MissppRS_W_cluster_0_scenarios,240,"1, 3, 2","1, 2","1, 4, 2, 3, 5","1, 2","1, 2","3, 4, 2",3
+USA_MissppRS_W_cluster_1_scenarios,180,"1, 3, 2","1, 2","1, 4, 2, 3, 5","1, 2","1, 2","3, 4",3
+USA_MissppRS_W_cluster_2_scenarios,240,"1, 3, 2","1, 2","1, 4, 2, 3, 5","1, 2","1, 2","3, 4, 2",3
+USA_MissppRS_W_cluster_3_scenarios,213,"1, 3, 2","1, 2","1, 4, 2, 3, 5","1, 2","1, 2","3, 4, 2",3
+USA_MissppRS_W_cluster_4_scenarios,138,"1, 3, 2","1, 2","1, 4, 2, 3, 5","1, 2",1,4,"5, 1, 3, 2"
+USA_MissppRS_W_cluster_6_scenarios,150,"1, 3, 2","1, 2","1, 4, 2, 3, 5","1, 2",1,4,"5, 1, 3, 2"
+USA_UsaColoRS_W_cluster_3_scenarios,162,"1, 3, 2","1, 2","1, 4, 2, 3, 5","1, 2","1, 2","3, 4",5
+USA_UsaColoRS_W_cluster_4_scenarios,162,"1, 3, 2","1, 2","1, 4, 2, 3, 5","1, 2","1, 2","3, 4",5
+USA_UsaColoRS_W_cluster_6_scenarios,40,1,1,"3, 4, 2","1, 2","1, 2","3, 4","5, 1, 2"

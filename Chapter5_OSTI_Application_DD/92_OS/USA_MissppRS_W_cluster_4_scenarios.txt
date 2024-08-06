@@ -1,0 +1,10 @@
+File: USA_MissppRS_W_cluster_4.csv
+Number of rows: 138
+Unique values for specified columns:
+  gw: 3, 1, 2
+  res: 2, 1
+  esm: 3, 4, 5, 1, 2
+  tax: 1, 2
+  ssp: 1
+  ag: 4
+  soc: 1, 2, 3, 5

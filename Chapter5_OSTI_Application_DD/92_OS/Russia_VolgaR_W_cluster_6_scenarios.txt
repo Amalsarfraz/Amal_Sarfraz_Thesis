@@ -1,0 +1,10 @@
+File: Russia_VolgaR_W_cluster_6.csv
+Number of rows: 60
+Unique values for specified columns:
+  gw: 3, 1, 2
+  res: 2, 1
+  esm: 1, 2, 3, 4, 5
+  tax: 1
+  ssp: 2, 1
+  ag: 3
+  soc: 3

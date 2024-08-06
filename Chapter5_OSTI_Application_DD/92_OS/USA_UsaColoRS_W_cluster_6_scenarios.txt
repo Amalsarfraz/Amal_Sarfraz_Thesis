@@ -1,0 +1,10 @@
+File: USA_UsaColoRS_W_cluster_6.csv
+Number of rows: 40
+Unique values for specified columns:
+  gw: 1
+  res: 1
+  esm: 2, 3, 4
+  tax: 1, 2
+  ssp: 2, 1
+  ag: 3, 4
+  soc: 1, 2, 5

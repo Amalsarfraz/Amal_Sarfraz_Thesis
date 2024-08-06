@@ -1,0 +1,10 @@
+File: CA_SyrDaryaR_W_cluster_5.csv
+Number of rows: 95
+Unique values for specified columns:
+  gw: 1, 2, 3
+  res: 2, 1
+  esm: 1, 2, 4, 5, 3
+  tax: 1, 2
+  ssp: 2
+  ag: 3, 4
+  soc: 2, 5

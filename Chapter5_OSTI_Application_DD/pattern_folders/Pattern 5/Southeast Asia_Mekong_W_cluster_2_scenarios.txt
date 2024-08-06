@@ -1,0 +1,10 @@
+File: Southeast Asia_Mekong_W_cluster_2.csv
+Number of rows: 60
+Unique values for specified columns:
+  gw: 3, 1, 2
+  res: 2, 1
+  esm: 1, 2, 3, 4, 5
+  tax: 1, 2
+  ssp: 2
+  ag: 4
+  soc: 5

@@ -1,0 +1,10 @@
+File: CA_AmuDaryaR_W_cluster_4.csv
+Number of rows: 37
+Unique values for specified columns:
+  gw: 3, 1, 2
+  res: 2, 1
+  esm: 3, 5, 1, 2, 4
+  tax: 2, 1
+  ssp: 2
+  ag: 4
+  soc: 5
